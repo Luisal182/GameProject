@@ -1,5 +1,5 @@
 # GameProject
-Proekt for C## course
+Projectt for C## course
 This game is a recreation of the classic "Snake" where you control a snake moving across the screen. The objective is to collect food (represented by red circles) to grow, avoiding collisions with the borders or your own body.
 The project uses an object-oriented structure with separation of concerns through classes and interfaces:
 
